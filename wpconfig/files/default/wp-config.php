@@ -27,7 +27,7 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'wordpress');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'timmy555');
+define('DB_PASSWORD', 'wordpress');
 
 /** MySQL hostname */
 define('DB_HOST', 'wordpress.cu1mdngqiiww.us-east-1.rds.amazonaws.com:3306');
