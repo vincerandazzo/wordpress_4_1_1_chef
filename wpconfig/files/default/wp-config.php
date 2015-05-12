@@ -14,7 +14,7 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', '');
+define('WP_REDIS_HOST', 'wordpress.ma1nf4.0001.use1.cache.amazonaws.com');
  
 define('WP_HOME','');
 define('WP_SITEURL','');
